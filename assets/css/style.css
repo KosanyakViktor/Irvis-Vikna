@@ -1829,3 +1829,8 @@ textarea:focus {
     animation: none !important;
   }
 }
+@media only screen and (max-width: 399px) {
+   .timer1 {
+     width: 100%;
+   }
+}
