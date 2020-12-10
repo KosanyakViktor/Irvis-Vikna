@@ -7,6 +7,10 @@ QUCICK START
 
 git clone https://github.com/KosanyakViktor/Irvis-Vikna.git
 
+npm i 
+
+gulp
+
 **The tech stack is:**
 * *HTML*
 * *CSS3(GRID,FLEXBOX,animation)*
